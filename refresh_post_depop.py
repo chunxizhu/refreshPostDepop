@@ -138,3 +138,4 @@ def update_w_auto_wait():
     finally:
         driver.close()
 
+update_w_auto_wait()
